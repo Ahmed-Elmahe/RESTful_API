@@ -1,0 +1,8 @@
+{
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultLocation": "view",
+    "terminal.integrated.environmentChangesIndicator": "off",
+    "terminal.integrated.ignoreBracketedPasteMode": true,
+    "terminal.integrated.initialHint": true
+}
